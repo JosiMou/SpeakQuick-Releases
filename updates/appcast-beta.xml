@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SpeakQuick Updates</title>
+    <description>SpeakQuick release feed</description>
+    <language>en</language>
+    <item>
+      <title>SpeakQuick 1.0.1</title>
+      <pubDate>Sat, 04 Apr 2026 11:34:23 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://speakquick.app/updates/release-notes-1.0.1</sparkle:releaseNotesLink>
+      <description><![CDATA[<p>SpeakQuick 1.0.1 is available.</p>]]></description>
+      <enclosure
+        url="https://speakquick.app/updates/downloads/SpeakQuick-1.0.1.dmg"
+        length="24945454"
+        type="application/octet-stream"
+        sparkle:version="3"
+        sparkle:shortVersionString="1.0.1"
+        sparkle:edSignature="L4wFTe5sZw/zilwWwORZJN1ciiaS6AA3+gBw3Ad2GhiMd88rtpHVi/x3rT1JdM5stefvYNUPrYZy3SELP4DkAQ==" />
+    </item>
+    <item>
+      <title>SpeakQuick 1.0.0</title>
+      <pubDate>Wed, 25 Feb 2026 07:03:46 +0000</pubDate>
+      <sparkle:version>20260225065755</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://speakquick.app/updates/release-notes-1.0.0</sparkle:releaseNotesLink>
+      <description><![CDATA[<p>SpeakQuick 1.0.0 is available.</p>]]></description>
+      <enclosure
+        url="https://speakquick.app/updates/downloads/SpeakQuick-1.0.0.dmg"
+        length="26026551"
+        type="application/octet-stream"
+        sparkle:version="20260225065755"
+        sparkle:shortVersionString="1.0.0"
+        sparkle:edSignature="bKBaLfpUwIq5nOpKlyT5f5I2AkEXYhn/LJHu8PgiR1W/mP6jCEoUA6Dz4HjJ5NtXXR8/hP1FBpfYwa2JyWDpCA==" />
+    </item>
+    <item>
+      <title>SpeakQuick 1.0.0-beta.1</title>
+      <pubDate>Mon, 23 Feb 2026 21:43:17 +0000</pubDate>
+      <sparkle:version>20260223213722</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-beta.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://speakquick.app/updates/release-notes-1.0.0-beta.1</sparkle:releaseNotesLink>
+      <description><![CDATA[<p>SpeakQuick 1.0.0-beta.1 is available.</p>]]></description>
+      <enclosure
+        url="https://speakquick.app/updates/downloads/SpeakQuick-1.0.0-beta.1.dmg"
+        length="26004167"
+        type="application/octet-stream"
+        sparkle:version="20260223213722"
+        sparkle:shortVersionString="1.0.0-beta.1"
+        sparkle:edSignature="f6Sb3X0FyWGrV+k+SWhT3MLify762lL2GSomEx7z2G/+YpRHZ0fH1rBl2BviG7rEhO1bup+hC/PIh+b9vCXHBQ==" />
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+{
+  "stable": [
+    {
+      "version": "1.0.1",
+      "build": 3,
+      "channel": "stable",
+      "published_at": "2026-04-04T11:34:23Z",
+      "dmg_url": "https://speakquick.app/updates/downloads/SpeakQuick-1.0.1.dmg",
+      "dmg_size": 24945454,
+      "ed_signature": "L4wFTe5sZw/zilwWwORZJN1ciiaS6AA3+gBw3Ad2GhiMd88rtpHVi/x3rT1JdM5stefvYNUPrYZy3SELP4DkAQ==",
+      "minimum_system_version": "14.0",
+      "release_notes_url": "https://speakquick.app/updates/release-notes-1.0.1",
+      "release_id": 20260225065756
+    },
+    {
+      "version": "1.0.0",
+      "build": 20260225065755,
+      "channel": "stable",
+      "published_at": "2026-02-25T07:03:46Z",
+      "dmg_url": "https://speakquick.app/updates/downloads/SpeakQuick-1.0.0.dmg",
+      "dmg_size": 26026551,
+      "ed_signature": "bKBaLfpUwIq5nOpKlyT5f5I2AkEXYhn/LJHu8PgiR1W/mP6jCEoUA6Dz4HjJ5NtXXR8/hP1FBpfYwa2JyWDpCA==",
+      "minimum_system_version": "14.0",
+      "release_notes_url": "https://speakquick.app/updates/release-notes-1.0.0",
+      "release_id": 20260225065755
+    }
+  ],
+  "beta": [
+    {
+      "version": "1.0.0-beta.1",
+      "build": 20260223213722,
+      "channel": "beta",
+      "published_at": "2026-02-23T21:43:17Z",
+      "dmg_url": "https://speakquick.app/updates/downloads/SpeakQuick-1.0.0-beta.1.dmg",
+      "dmg_size": 26004167,
+      "ed_signature": "f6Sb3X0FyWGrV+k+SWhT3MLify762lL2GSomEx7z2G/+YpRHZ0fH1rBl2BviG7rEhO1bup+hC/PIh+b9vCXHBQ==",
+      "minimum_system_version": "14.0",
+      "release_notes_url": "https://speakquick.app/updates/release-notes-1.0.0-beta.1",
+      "release_id": 20260223213722
+    }
+  ]
+}
