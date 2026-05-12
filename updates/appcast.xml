@@ -10,10 +10,10 @@
       <sparkle:version>3</sparkle:version>
       <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://speakquick.app/updates/release-notes-1.0.1</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://josimou.github.io/SpeakQuick-Releases/updates/release-notes-1.0.1</sparkle:releaseNotesLink>
       <description><![CDATA[<p>SpeakQuick 1.0.1 is available.</p>]]></description>
       <enclosure
-        url="https://speakquick.app/updates/downloads/SpeakQuick-1.0.1.dmg"
+        url="https://josimou.github.io/SpeakQuick-Releases/updates/downloads/SpeakQuick-1.0.1.dmg"
         length="24945454"
         type="application/octet-stream"
         sparkle:version="3"
@@ -26,10 +26,10 @@
       <sparkle:version>20260225065755</sparkle:version>
       <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://speakquick.app/updates/release-notes-1.0.0</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://josimou.github.io/SpeakQuick-Releases/updates/release-notes-1.0.0</sparkle:releaseNotesLink>
       <description><![CDATA[<p>SpeakQuick 1.0.0 is available.</p>]]></description>
       <enclosure
-        url="https://speakquick.app/updates/downloads/SpeakQuick-1.0.0.dmg"
+        url="https://josimou.github.io/SpeakQuick-Releases/updates/downloads/SpeakQuick-1.0.0.dmg"
         length="26026551"
         type="application/octet-stream"
         sparkle:version="20260225065755"
