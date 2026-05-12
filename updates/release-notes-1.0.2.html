@@ -1,0 +1,22 @@
+<h1 id="v1.0.2">v1.0.2</h1>
+<h2 id="improvements">Improvements</h2>
+<ul>
+<li>Improved upgrade completion so SpeakQuick keeps checking for a
+confirmed unlock after checkout instead of giving up too quickly.</li>
+<li>Added clearer recovery messaging when access cannot be verified,
+with a retry path instead of a silent failure.</li>
+<li>Made license settings better at recognizing a remembered
+direct-build account so unlink and refresh actions are available when
+needed.</li>
+<li>Updated release version handling so direct and App Store builds use
+the same release version source.</li>
+</ul>
+<h2 id="fixes">Fixes</h2>
+<ul>
+<li>Fixed cases where a completed checkout could still show a retryable
+setup error before the entitlement update arrived.</li>
+<li>Fixed stale entitlement state from being treated as active access
+when SpeakQuick needs an online refresh.</li>
+<li>Improved App Store archive defaults so release builds get an
+explicit marketing version and build number.</li>
+</ul>

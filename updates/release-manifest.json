@@ -1,6 +1,18 @@
 {
   "stable": [
     {
+      "version": "1.0.2",
+      "build": 20260225065759,
+      "channel": "stable",
+      "published_at": "2026-05-12T09:29:36Z",
+      "dmg_url": "https://josimou.github.io/SpeakQuick-Releases/updates/downloads/SpeakQuick-1.0.2.dmg",
+      "dmg_size": 25068702,
+      "ed_signature": "PhMIsZwfyhLpIv45rNsCkJD2378OaVCUL14TOsGKJH5GBWljHnoQ4nW+B55o6hRKeNyzUS9HQDAwlSB2OH4kDA==",
+      "minimum_system_version": "14.0",
+      "release_notes_url": "https://josimou.github.io/SpeakQuick-Releases/updates/release-notes-1.0.2.html",
+      "release_id": 20260225065759
+    },
+    {
       "version": "1.0.1",
       "build": 3,
       "channel": "stable",
