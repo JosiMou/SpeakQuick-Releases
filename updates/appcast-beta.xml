@@ -10,7 +10,7 @@
       <sparkle:version>3</sparkle:version>
       <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://josimou.github.io/SpeakQuick-Releases/updates/release-notes-1.0.1</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://josimou.github.io/SpeakQuick-Releases/updates/release-notes-1.0.1.html</sparkle:releaseNotesLink>
       <description><![CDATA[<p>SpeakQuick 1.0.1 is available.</p>]]></description>
       <enclosure
         url="https://josimou.github.io/SpeakQuick-Releases/updates/downloads/SpeakQuick-1.0.1.dmg"
@@ -26,7 +26,7 @@
       <sparkle:version>20260225065755</sparkle:version>
       <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://josimou.github.io/SpeakQuick-Releases/updates/release-notes-1.0.0</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://josimou.github.io/SpeakQuick-Releases/updates/release-notes-1.0.0.html</sparkle:releaseNotesLink>
       <description><![CDATA[<p>SpeakQuick 1.0.0 is available.</p>]]></description>
       <enclosure
         url="https://josimou.github.io/SpeakQuick-Releases/updates/downloads/SpeakQuick-1.0.0.dmg"
@@ -42,7 +42,7 @@
       <sparkle:version>20260223213722</sparkle:version>
       <sparkle:shortVersionString>1.0.0-beta.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://josimou.github.io/SpeakQuick-Releases/updates/release-notes-1.0.0-beta.1</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://josimou.github.io/SpeakQuick-Releases/updates/release-notes-1.0.0-beta.1.html</sparkle:releaseNotesLink>
       <description><![CDATA[<p>SpeakQuick 1.0.0-beta.1 is available.</p>]]></description>
       <enclosure
         url="https://josimou.github.io/SpeakQuick-Releases/updates/downloads/SpeakQuick-1.0.0-beta.1.dmg"

@@ -9,7 +9,7 @@
       "dmg_size": 24945454,
       "ed_signature": "L4wFTe5sZw/zilwWwORZJN1ciiaS6AA3+gBw3Ad2GhiMd88rtpHVi/x3rT1JdM5stefvYNUPrYZy3SELP4DkAQ==",
       "minimum_system_version": "14.0",
-      "release_notes_url": "https://josimou.github.io/SpeakQuick-Releases/updates/release-notes-1.0.1",
+      "release_notes_url": "https://josimou.github.io/SpeakQuick-Releases/updates/release-notes-1.0.1.html",
       "release_id": 20260225065756
     },
     {
@@ -21,7 +21,7 @@
       "dmg_size": 26026551,
       "ed_signature": "bKBaLfpUwIq5nOpKlyT5f5I2AkEXYhn/LJHu8PgiR1W/mP6jCEoUA6Dz4HjJ5NtXXR8/hP1FBpfYwa2JyWDpCA==",
       "minimum_system_version": "14.0",
-      "release_notes_url": "https://josimou.github.io/SpeakQuick-Releases/updates/release-notes-1.0.0",
+      "release_notes_url": "https://josimou.github.io/SpeakQuick-Releases/updates/release-notes-1.0.0.html",
       "release_id": 20260225065755
     }
   ],
@@ -35,7 +35,7 @@
       "dmg_size": 26004167,
       "ed_signature": "f6Sb3X0FyWGrV+k+SWhT3MLify762lL2GSomEx7z2G/+YpRHZ0fH1rBl2BviG7rEhO1bup+hC/PIh+b9vCXHBQ==",
       "minimum_system_version": "14.0",
-      "release_notes_url": "https://josimou.github.io/SpeakQuick-Releases/updates/release-notes-1.0.0-beta.1",
+      "release_notes_url": "https://josimou.github.io/SpeakQuick-Releases/updates/release-notes-1.0.0-beta.1.html",
       "release_id": 20260223213722
     }
   ]
