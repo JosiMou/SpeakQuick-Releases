@@ -7,18 +7,18 @@
     <item>
       <title>SpeakQuick 1.0.2</title>
       <pubDate>Tue, 12 May 2026 09:29:36 +0000</pubDate>
-      <sparkle:version>20260225065761</sparkle:version>
+      <sparkle:version>20260225065762</sparkle:version>
       <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://josimou.github.io/SpeakQuick-Releases/updates/release-notes-1.0.2.html</sparkle:releaseNotesLink>
       <description><![CDATA[<p>SpeakQuick 1.0.2 is available.</p>]]></description>
       <enclosure
         url="https://josimou.github.io/SpeakQuick-Releases/updates/downloads/SpeakQuick-1.0.2.dmg"
-        length="20107746"
+        length="20105469"
         type="application/octet-stream"
-        sparkle:version="20260225065761"
+        sparkle:version="20260225065762"
         sparkle:shortVersionString="1.0.2"
-        sparkle:edSignature="NdXJmiuO7Q/2cYwoYCZy9zeHlD4AtCCn8c2JU+R8H0AwA7P0qN26VErf/R4iUP7qLYghrgP9xr0PgFVeLjpGAA==" />
+        sparkle:edSignature="pL+mWH1dn+RMA+44/QwF6H3dW3sr792dC1+vyZzR/y69ehiczITMmtg/FWA+eN8OZ6X3kvzDNJ7qy0nRncBGDw==" />
     </item>
     <item>
       <title>SpeakQuick 1.0.1</title>
